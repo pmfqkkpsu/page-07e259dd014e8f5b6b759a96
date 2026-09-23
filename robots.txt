@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lot-too.cn/sitemap.xml

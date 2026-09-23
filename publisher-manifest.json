@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "74ee9c2f190c5d36179fd4b7",
+  "owner": "pmfqkkpsu",
+  "repo": "page-07e259dd014e8f5b6b759a96",
+  "title": "博联",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "07e259dd014e8f5b6b759a96",
+      "a": "博联",
+      "b": "机场官网线路发布页",
+      "entity": "博联",
+      "brand": "博联",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4d92a8f92f02d5483cdb0dfbef810994fd3e168df302f709435f029b52eac3b6",
+      "content": {
+        "primary_entity": "博联",
+        "keyword1": "博联",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，让不同系统都能顺利导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "依据设备数量与流量需求选定版本，再按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好版本即可开始",
+          "AI_DESCRIPTION": "，围绕设备选择与订阅配置展开，套餐按流量、在线设备数和线路类型区分，便于依据日常使用场景对比后选定版本。",
+          "AI_FAQ_ANSWER_1": "按设备数量、月流量和线路需求选择。轻度使用选基础版，多设备与流媒体选旗舰版，团队多设备选团队版。",
+          "AI_FAQ_ANSWER_2": "支持同一账号在多台设备同时在线，基础版 3 台，旗舰版 5 台，团队版 20 台，超出后可在套餐页面升级。",
+          "AI_FAQ_ANSWER_3": "支持月付与年付。年付价格更优惠，例如基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅链接即可，具体步骤参考所选客户端的配置文档，按提示粘贴订阅地址并更新节点。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线与游戏加速优化，团队版提供 VIP 高带宽节点和企业定制路由，高负载场景优先选这两档。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何选择适合自己的套餐？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_3": "支持哪些付费周期？",
+          "AI_FAQ_QUESTION_4": "订阅如何导入到客户端？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合流媒体或游戏？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐选择、设备数量到线路类型，按实际使用需求配置。",
+          "AI_FEATURES_TITLE": "特点概览",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台，旗舰版 300GB/5 台，团队版 1000GB/20 台，按人数与流量匹配档位。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线与原生流媒体解锁，团队版支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付更省，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "套餐按需匹配",
+          "AI_FEATURE_TITLE_2": "线路分层可选",
+          "AI_FEATURE_TITLE_3": "周期灵活付费",
+          "AI_GUIDE_INTRO": "三步完成选择与配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "博联提供多种海外加速套餐，依据设备数量、月流量和线路类型区分版本，适合按日常使用需求选择并配置订阅。",
+          "AI_HERO_SUBTITLE": "按设备选择套餐",
+          "AI_HIGHLIGHT_1": "多档套餐可选",
+          "AI_HIGHLIGHT_2": "设备数量灵活",
+          "AI_HIGHLIGHT_3": "月付年付皆可",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数和线路类型上各有侧重，可按实际使用对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "确定常用设备数量与每月大致流量，在基础版、旗舰版与团队版之间选定目标版本。",
+          "AI_STEP_TEXT_2": "查看选定版本对应的在线设备数、流量额度和线路类型，确认是否满足使用需求。",
+          "AI_STEP_TEXT_3": "按设备类型选择客户端，参考客户端文档导入订阅链接并完成节点更新。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端",
+          "AI_VISUAL_TITLE": "博联套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lot-too.cn",
+    "host": "lot-too.cn"
+  },
+  "file_hashes": {
+    "index.html": "a6d2b9a47ecbad38efb1f3c3359cc9d47dcb5defffa5d5d2d701cc6bbb8d3369",
+    "sitemap.xml": "7e260c3f8a37177bf26b594f5edff56c81fbbf45110d344287a2d019bd3906b9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d6d746f445f9828d5c0992dd315ba7f774228da8c6c6fc1019846a95236199bd",
+    "robots.txt": "e1276e88831dc65d2cd8daf5e1193f263e2d596a48b1b273ddb53732486b95e5",
+    "4ffdfe4477d85d9d57c82e5664f41f31.txt": "91a5221f5c62a9e6874b074241ecf669d4c8497ad9ecc2da25a4f2bed5498a6c"
+  },
+  "revision": "6c0ec6f25e554aa105ae10ada83c2076f619e2ebd956df3616f40166c03e5a03"
+}
